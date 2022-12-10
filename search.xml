@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>代码测试title</title>
+      <title>更新日志</title>
       <link href="/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/"/>
       <url>/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/</url>
       
-        <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><h3 id="首先1"><a href="#首先1" class="headerlink" title="首先1"></a>首先1</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> () &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;this&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="其次"><a href="#其次" class="headerlink" title="其次"></a>其次</h2><h2 id="其次1"><a href="#其次1" class="headerlink" title="其次1"></a>其次1</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>整体页面布局完成，无404页面</p><h3 id="首先1"><a href="#首先1" class="headerlink" title="首先1"></a>首先1</h3><p>相册布局完成<br>友链布局完成（待更新）</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> () &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;this is english&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="其次待更新"><a href="#其次待更新" class="headerlink" title="其次待更新"></a>其次待更新</h2><p>主页面滚动字体未更新<br>主页面字体未更改<br>整体页面美观度待优化</p><h2 id="其次1"><a href="#其次1" class="headerlink" title="其次1"></a>其次1</h2><p>其他页面待补充</p>]]></content>
       
       
       
