@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>代码测试title</title>
+      <link href="/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/"/>
+      <url>/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> () &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;this&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试文档</title>
       <link href="/2022/12/09/hello-world/"/>
       <url>/2022/12/09/hello-world/</url>
