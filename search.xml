@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>windows服务器使用教学</title>
+      <link href="/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/"/>
+      <url>/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</url>
+      
+        <content type="html"><![CDATA[<p>通过本篇文章详细学习如何使用windows服务器，后期有关更新将同步更新到本文档中。<br>你可以随时通过右侧目录快捷跳转到需要学习的位置。</p><h2 id="1-安装"><a href="#1-安装" class="headerlink" title="1.安装"></a>1.安装</h2><p>windows服务器基于2019版本教学，本章教学如何下载并安装该版本。</p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>为尽快安装，避免软件网速限制，请提前下载好迅雷；<br>复制以下任意一个内容，到迅雷新建下载任务即可下载。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|file|cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso|5675251712|19AE348F0D321785007D95B7D2FAF320|/</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">magnet:?xt=urn:btih:22A410DEA1B0886354A34D19E995BECBB7EBA15E&amp;dn=cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso&amp;xl=5675251712</span><br></pre></td></tr></table></figure><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h2><p>基于VMware进行安装，参照Linux服务器安装步骤即可</p><h3 id="详细教程"><a href="#详细教程" class="headerlink" title="详细教程"></a>详细教程</h3><p>（后续更新）</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更新日志</title>
-      <link href="/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/"/>
-      <url>/2022/12/10/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%981/</url>
+      <link href="/2022/12/10/%E6%9B%B4%E6%96%B0/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+      <url>/2022/12/10/%E6%9B%B4%E6%96%B0/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
       
         <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>整体页面布局完成，无404页面</p><h3 id="首先1"><a href="#首先1" class="headerlink" title="首先1"></a>首先1</h3><p>相册布局完成<br>友链布局完成（待更新）</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> () &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;this is english&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="其次待更新"><a href="#其次待更新" class="headerlink" title="其次待更新"></a>其次待更新</h2><p>主页面滚动字体未更新<br>主页面字体未更改<br>整体页面美观度待优化</p><h2 id="其次1"><a href="#其次1" class="headerlink" title="其次1"></a>其次1</h2><p>其他页面待补充</p>]]></content>
       
