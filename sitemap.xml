@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://djcblog.github.io/archives/</loc>
+    <loc>https://djcblog.github.io/tags/</loc>
     
     <lastmod>2026-10-14</lastmod>
     
@@ -20,61 +20,7 @@
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/tags/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://djcblog.github.io/share/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/2022/12/09/hello-world/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/music/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/photos/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/photos/marvel/</loc>
     
     <lastmod>2026-10-14</lastmod>
     
@@ -92,6 +38,51 @@
   </url>
   
   <url>
+    <loc>https://djcblog.github.io/movies/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/music/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/photos/wallpaper/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/photos/marvel/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/photos/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://djcblog.github.io/about/</loc>
     
     <lastmod>2026-10-14</lastmod>
@@ -101,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/movies/</loc>
+    <loc>https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/2022/12/09/hello-world/</loc>
     
     <lastmod>2026-10-14</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/photos/wallpaper/</loc>
+    <loc>https://djcblog.github.io/archives/</loc>
     
     <lastmod>2026-10-14</lastmod>
     
