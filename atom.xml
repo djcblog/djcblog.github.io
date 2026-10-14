@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>段</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://djcblog.github.io/</id>
+  <link href="https://djcblog.github.io/" rel="alternate"/>
+  <link href="https://djcblog.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 段</rights>
+  <subtitle>做一个纯粹的技术宅！</subtitle>
+  <title>段巨川の主页</title>
+  <updated>2026-10-14T04:12:22.554Z</updated>
+  <entry>
+    <author>
+      <name>段</name>
+    </author>
+    <category term="赛事" scheme="https://djcblog.github.io/categories/%E8%B5%9B%E4%BA%8B/"/>
+    <content>
+      <![CDATA[<p>通过本篇文章详细学习如何使用 windows 服务器，后期有关更新将同步更新到本文档中。</p><p>你可以随时通过右侧目录快捷跳转到需要学习的位置。</p><h2 id="1-安装"><a href="#1-安装" class="headerlink" title="1. 安装"></a>1. 安装</h2><p>windows 服务器基于 2019 版本教学，本章教学如何下载并安装该版本。</p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>为尽快安装，避免软件网速限制，请提前下载好迅雷；</p><p>复制以下任意一个内容，到迅雷新建下载任务即可下载。</p><p>ed2k:</p><p><code>ext ed2k://|file|cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso|5675251712|19AE348F0D321785007D95B7D2FAF320|/ </code></p><p>磁力:</p><p><code>ext magnet:?xt=urn:btih:22A410DEA1B0886354A34D19E995BECBB7EBA15E&amp;dn=cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso&amp;xl=5675251712 </code></p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2. 安装"></a>2. 安装</h2><p>基于 VMware 进行安装，参照 Linux 服务器安装步骤即可。</p><p>详细教程（后续更新）。</p>]]>
+    </content>
+    <id>https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</id>
+    <link href="https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/"/>
+    <published>2023-01-05T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>通过本篇文章详细学习如何使用 windows 服务器，后期有关更新将同步更新到本文档中。</p>
+<p>你可以随时通过右侧目录快捷跳转到需要学习的位置。</p>
+<h2 id="1-安装"><a href="#1-安装" class="headerlink" title="]]>
+    </summary>
+    <title>windows服务器使用教学</title>
+    <updated>2026-10-14T04:12:22.554Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>段</name>
+    </author>
+    <category term="更新" scheme="https://djcblog.github.io/categories/%E6%9B%B4%E6%96%B0/"/>
+    <content>
+      <![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><ul><li>整体页面布局完成，无 404 页面</li><li>相册布局完成</li><li>友链布局完成（待更新）</li></ul><p><code>javascript function a() {   console.log(&quot;this is english&quot;) } </code></p><h2 id="其次（待更新）"><a href="#其次（待更新）" class="headerlink" title="其次（待更新）"></a>其次（待更新）</h2><ul><li>主页面滚动字体未更新</li><li>主页面字体未更改</li><li>整体页面美观度待优化</li></ul><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul><li>其他页面待补充</li></ul>]]>
+    </content>
+    <id>https://djcblog.github.io/2022/12/10/%E6%9B%B4%E6%96%B0/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
+    <link href="https://djcblog.github.io/2022/12/10/%E6%9B%B4%E6%96%B0/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <published>2022-12-10T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><ul>
+<li>整体页面布局完成，无 404 页面</li>
+<li>相册布局完成</li>
+<li>友链布局完成（待更新）</li>
+</ul]]>
+    </summary>
+    <title>更新日志</title>
+    <updated>2023-01-04T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>段</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to my web! This is your very first post.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p><code>ash $ hexo new &quot;My New Post&quot; </code></p><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><p><code>ash $ hexo server </code></p><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><p><code>ash $ hexo generate </code></p><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><p><code>ash $ hexo deploy </code></p><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://djcblog.github.io/2022/12/09/hello-world/</id>
+    <link href="https://djcblog.github.io/2022/12/09/hello-world/"/>
+    <published>2022-12-09T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to my web! This is your very first post.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"><]]>
+    </summary>
+    <title>测试文档</title>
+    <updated>2026-10-14T04:12:22.555Z</updated>
+  </entry>
+</feed>
