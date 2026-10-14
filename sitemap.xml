@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://djcblog.github.io/about/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/link/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/2026/10/14/%E8%B5%9B%E4%BA%8B%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/test/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</loc>
+    
+    <lastmod>2026-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://djcblog.github.io/tags/</loc>
     
     <lastmod>2026-10-14</lastmod>
@@ -21,15 +66,6 @@
   
   <url>
     <loc>https://djcblog.github.io/share/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/link/</loc>
     
     <lastmod>2026-10-14</lastmod>
     
@@ -83,24 +119,6 @@
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/about/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/</loc>
-    
-    <lastmod>2026-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://djcblog.github.io/2022/12/09/hello-world/</loc>
     
     <lastmod>2026-10-14</lastmod>
@@ -128,9 +146,9 @@
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/2022/12/10/%E6%9B%B4%E6%96%B0/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://djcblog.github.io/2020/12/25/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
     
-    <lastmod>2023-01-04</lastmod>
+    <lastmod>2026-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,14 +166,14 @@
 
   
   <url>
-    <loc>https://djcblog.github.io/categories/%E8%B5%9B%E4%BA%8B/</loc>
+    <loc>https://djcblog.github.io/categories/%E6%9B%B4%E6%96%B0/</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://djcblog.github.io/categories/%E6%9B%B4%E6%96%B0/</loc>
+    <loc>https://djcblog.github.io/categories/%E8%B5%9B%E4%BA%8B/</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
