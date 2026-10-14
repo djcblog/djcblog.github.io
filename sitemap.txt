@@ -1,8 +1,8 @@
+https://djcblog.github.io/windows%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%A6/
+https://djcblog.github.io/%E8%B5%9B%E4%BA%8B%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/
 https://djcblog.github.io/about/
 https://djcblog.github.io/link/
-https://djcblog.github.io/2026/10/14/%E8%B5%9B%E4%BA%8B%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/
 https://djcblog.github.io/test/
-https://djcblog.github.io/2023/01/05/%E8%B5%9B%E4%BA%8B/windowsserver/
 https://djcblog.github.io/tags/
 https://djcblog.github.io/categories/
 https://djcblog.github.io/share/
@@ -14,7 +14,7 @@ https://djcblog.github.io/photos/
 https://djcblog.github.io/2022/12/09/hello-world/
 https://djcblog.github.io/comment/
 https://djcblog.github.io/archives/
-https://djcblog.github.io/2020/12/25/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/
+https://djcblog.github.io/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/
 https://djcblog.github.io/
-https://djcblog.github.io/categories/%E6%9B%B4%E6%96%B0/
 https://djcblog.github.io/categories/%E8%B5%9B%E4%BA%8B/
+https://djcblog.github.io/categories/%E6%9B%B4%E6%96%B0/
